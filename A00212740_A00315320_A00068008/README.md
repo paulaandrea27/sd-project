@@ -4,9 +4,9 @@
 **Curso:** Sistemas Distribuidos  
 **Docente:** Daniel Barragán C.  
 **Tema:**  Kubernetes  
-**Estudiante 1:**  Luis Rosales - A00212740
-**Estudiante 2:**  Christian Cárdenas - A00315320
-**Estudiante 3:**  Paula Bolaños - A00068008
+**Estudiante 1:**  Luis Rosales - A00212740.            
+**Estudiante 2:**  Christian Cárdenas - A00315320.         
+**Estudiante 3:**  Paula Bolaños - A00068008.           
 **URL:**  www.github.com/paulaandrea27/sd-project  
 
 ### Objetivos
